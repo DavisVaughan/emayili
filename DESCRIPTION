@@ -73,6 +73,7 @@ Suggests:
     roxygen2,
     showtext,
     Microsoft365R
+Remotes: jeroen/gpg
 SystemRequirements: The function render() requires Pandoc (http://pandoc.org).
   To use PGP/GnuPG encryption requires gpg.
 Encoding: UTF-8
